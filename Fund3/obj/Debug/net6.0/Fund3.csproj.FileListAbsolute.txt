@@ -1,0 +1,15 @@
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental3\Fund3\bin\Debug\net6.0\Fund3.exe
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental3\Fund3\bin\Debug\net6.0\Fund3.deps.json
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental3\Fund3\bin\Debug\net6.0\Fund3.runtimeconfig.json
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental3\Fund3\bin\Debug\net6.0\Fund3.dll
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental3\Fund3\bin\Debug\net6.0\Fund3.pdb
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental3\Fund3\obj\Debug\net6.0\Fund3.csproj.AssemblyReference.cache
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental3\Fund3\obj\Debug\net6.0\Fund3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental3\Fund3\obj\Debug\net6.0\Fund3.AssemblyInfoInputs.cache
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental3\Fund3\obj\Debug\net6.0\Fund3.AssemblyInfo.cs
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental3\Fund3\obj\Debug\net6.0\Fund3.csproj.CoreCompileInputs.cache
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental3\Fund3\obj\Debug\net6.0\Fund3.dll
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental3\Fund3\obj\Debug\net6.0\refint\Fund3.dll
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental3\Fund3\obj\Debug\net6.0\Fund3.pdb
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental3\Fund3\obj\Debug\net6.0\Fund3.genruntimeconfig.cache
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental3\Fund3\obj\Debug\net6.0\ref\Fund3.dll
